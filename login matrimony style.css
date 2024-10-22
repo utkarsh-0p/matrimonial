@@ -1,0 +1,101 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+/* navbar styling */
+.navbar
+{
+    background-color: rgb(222, 110, 129); 
+}
+
+.d-flex
+{
+    padding-right:-5px ;
+    padding-bottom: 2%;
+}
+.navbar-brand img
+{
+    border-radius: 8px;
+}
+.navbar #login
+{
+background-color: azure;
+}
+.navbar #register
+{
+    background-color: rgb(236, 110, 42);
+}
+/*background image*/
+
+
+
+
+
+/*footer part*/
+.footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 40px 0;
+}
+.footer a {
+    color: #bdbdbd;
+    text-decoration: none;
+}
+.footer a:hover {
+    color: #fff;
+}
+.social-icons a {
+    margin-right: 15px;
+    font-size: 1.5rem;
+    color: #bdbdbd;
+}
+.social-icons a:hover {
+    color: #fff;
+}
+.footer-bottom {
+    padding: 10px 0;
+    border-top: 1px solid #555;
+    margin-top: 20px;
+}
+
+.navbar-brand img
+{
+    margin-left:2% ;
+}
+
+
+
+
+/* login part */
+.card {
+    border-radius: 10px;
+    
+}
+
+.card-body {
+    padding: 2rem;
+}
+
+h2 {
+    font-size: 1.8em;
+    font-weight: 600;
+}
+
+.btn-block {
+    padding: 10px;
+    font-size: 1.1em;
+}
+/*form validation code */
+.formerror
+{
+    color: red;
+}
+.but
+{
+    border-radius: 9px;
+    width: 100px;
+    height: 50px;
+    font-size: 25px;
+    margin: 22px 20px; 
+}
